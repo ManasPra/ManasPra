@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning B.Tech
 - 💞️ I’m looking to collaborate on Web Development 
 - 📫 How to reach me ...
-- 😄 Pronouns: he/him
+- 😄 Pronouns: him
 - ⚡ Fun fact: ...
 
 <!---
